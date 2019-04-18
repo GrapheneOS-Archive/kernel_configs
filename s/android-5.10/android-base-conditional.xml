@@ -72,10 +72,6 @@
 		<value type="bool">y</value>
 	</config>
 	<config>
-		<key>CONFIG_BPF_JIT_ALWAYS_ON</key>
-		<value type="bool">y</value>
-	</config>
-	<config>
 		<key>CONFIG_HAVE_MOVE_PMD</key>
 		<value type="bool">y</value>
 	</config>
@@ -143,10 +139,6 @@
 		<key>CONFIG_CFI_CLANG</key>
 		<value type="bool">y</value>
 	</config>-->
-	<config>
-		<key>CONFIG_BPF_JIT_ALWAYS_ON</key>
-		<value type="bool">y</value>
-	</config>
 </group>
 
 <!-- CONFIG_ACPI || CONFIG_OF -->
