@@ -43,36 +43,16 @@
 		<key>CONFIG_ARM64_SW_TTBR0_PAN</key>
 		<value type="bool">y</value>
 	</config>
-	<config>
-		<key>CONFIG_ARMV8_DEPRECATED</key>
-		<value type="bool">y</value>
-	</config>
 	<!--<config>
 		<key>CONFIG_CFI_CLANG</key>
 		<value type="bool">y</value>
 	</config>-->
 	<config>
-		<key>CONFIG_COMPAT</key>
-		<value type="bool">y</value>
-	</config>
-	<config>
-		<key>CONFIG_CP15_BARRIER_EMULATION</key>
-		<value type="bool">y</value>
-	</config>
-	<config>
 		<key>CONFIG_RANDOMIZE_BASE</key>
 		<value type="bool">y</value>
 	</config>
 	<config>
-		<key>CONFIG_SETEND_EMULATION</key>
-		<value type="bool">y</value>
-	</config>
-	<config>
 		<key>CONFIG_SHADOW_CALL_STACK</key>
-		<value type="bool">y</value>
-	</config>
-	<config>
-		<key>CONFIG_SWP_EMULATION</key>
 		<value type="bool">y</value>
 	</config>
 	<config>
